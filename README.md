@@ -1,1 +1,1 @@
-# yarn && yarn browser
+`yarn && yarn browser`
